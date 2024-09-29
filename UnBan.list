@@ -9,18 +9,18 @@
 
 <meta content="object" property="og:type">
 <meta content=" GitCode" property="og:site_name">
-<meta content="AI.list · master · kyphoto / clash" property="og:title">
+<meta content="UnBan.list · master · kyphoto / clash" property="og:title">
 <meta content="GitCode——开源代码托管平台，独立第三方开源社区，Git/Github/Gitlab" property="og:description">
 <meta content="https://gitcode.net/assets/gitlab_logo-ec88bcacc4284946371a7d3b529f3e6310ca4e3e5f41e98c6847eb2c7deff36b.png" property="og:image">
 <meta content="64" property="og:image:width">
 <meta content="64" property="og:image:height">
-<meta content="https://gitcode.net/kyphoto/clash/-/blob/master/AI.list" property="og:url">
+<meta content="https://gitcode.net/kyphoto/clash/-/blob/master/UnBan.list" property="og:url">
 <meta content="summary" property="twitter:card">
-<meta content="AI.list · master · kyphoto / clash" property="twitter:title">
+<meta content="UnBan.list · master · kyphoto / clash" property="twitter:title">
 <meta content="GitCode——开源代码托管平台，独立第三方开源社区，Git/Github/Gitlab" property="twitter:description">
 <meta content="https://gitcode.net/assets/gitlab_logo-ec88bcacc4284946371a7d3b529f3e6310ca4e3e5f41e98c6847eb2c7deff36b.png" property="twitter:image">
 
-<title>AI.list · master · kyphoto / clash ·  GitCode</title>
+<title>UnBan.list · master · kyphoto / clash ·  GitCode</title>
 <meta content="GitCode——开源代码托管平台，独立第三方开源社区，Git/Github/Gitlab" name="description">
 <link rel="shortcut icon" type="image/png" href="/uploads/-/system/appearance/favicon/1/icon.png" id="favicon" data-original-href="/uploads/-/system/appearance/favicon/1/icon.png" />
 
@@ -32,22 +32,22 @@
 <link rel="stylesheet" media="all" href="/assets/highlight/themes/white-6a22b8b375794a1289df4622d79144821592090a8477236097a5e6dacb004e68.css" />
 
 
-<script nonce="fxKlPtPEsfum1qOBvCddrg==">
+<script nonce="dW7/9QOBHZV2Uecj8q9A0A==">
 //<![CDATA[
 window.gon={};
 //]]>
 </script>
-<script src="/assets/locale/zh_CN/app-1d4232faa33c2d70bf4fec306a251675eace768ca11dc68919a02f063990e088.js" defer="defer" nonce="fxKlPtPEsfum1qOBvCddrg=="></script>
+<script src="/assets/locale/zh_CN/app-1d4232faa33c2d70bf4fec306a251675eace768ca11dc68919a02f063990e088.js" defer="defer" nonce="dW7/9QOBHZV2Uecj8q9A0A=="></script>
 
 
-<script src="/assets/webpack/runtime.ac089684.bundle.js" defer="defer" nonce="fxKlPtPEsfum1qOBvCddrg=="></script>
-<script src="/assets/webpack/main.8a1a41b0.chunk.js" defer="defer" nonce="fxKlPtPEsfum1qOBvCddrg=="></script>
-<script src="/assets/webpack/commons-pages.projects-pages.projects.activity-pages.projects.alert_management.details-pages.project-03c2a89e.28bbde75.chunk.js" defer="defer" nonce="fxKlPtPEsfum1qOBvCddrg=="></script>
-<script src="/assets/webpack/commons-pages.admin.application_settings-pages.admin.application_settings.general-pages.admin.applic-d549e6f7.15033b21.chunk.js" defer="defer" nonce="fxKlPtPEsfum1qOBvCddrg=="></script>
-<script src="/assets/webpack/commons-pages.projects.blame.show-pages.projects.blob.show.ab6a3bac.chunk.js" defer="defer" nonce="fxKlPtPEsfum1qOBvCddrg=="></script>
-<script src="/assets/webpack/pages.projects.blob.show.9d3a13c9.chunk.js" defer="defer" nonce="fxKlPtPEsfum1qOBvCddrg=="></script>
+<script src="/assets/webpack/runtime.ac089684.bundle.js" defer="defer" nonce="dW7/9QOBHZV2Uecj8q9A0A=="></script>
+<script src="/assets/webpack/main.8a1a41b0.chunk.js" defer="defer" nonce="dW7/9QOBHZV2Uecj8q9A0A=="></script>
+<script src="/assets/webpack/commons-pages.projects-pages.projects.activity-pages.projects.alert_management.details-pages.project-03c2a89e.28bbde75.chunk.js" defer="defer" nonce="dW7/9QOBHZV2Uecj8q9A0A=="></script>
+<script src="/assets/webpack/commons-pages.admin.application_settings-pages.admin.application_settings.general-pages.admin.applic-d549e6f7.15033b21.chunk.js" defer="defer" nonce="dW7/9QOBHZV2Uecj8q9A0A=="></script>
+<script src="/assets/webpack/commons-pages.projects.blame.show-pages.projects.blob.show.ab6a3bac.chunk.js" defer="defer" nonce="dW7/9QOBHZV2Uecj8q9A0A=="></script>
+<script src="/assets/webpack/pages.projects.blob.show.9d3a13c9.chunk.js" defer="defer" nonce="dW7/9QOBHZV2Uecj8q9A0A=="></script>
 
-<script nonce="fxKlPtPEsfum1qOBvCddrg==">
+<script nonce="dW7/9QOBHZV2Uecj8q9A0A==">
 //<![CDATA[
 window.uploads_path = "/kyphoto/clash/uploads";
 
@@ -56,8 +56,8 @@ window.uploads_path = "/kyphoto/clash/uploads";
 //]]>
 </script>
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="17fYQZd7JRn5dXKy5lq0XFVngujNGOKQLxsg1P2HaqnCUhGJd4CYr+Xlolqcl9TEqvpq5i/6kLmuv6jpcv2Z/Q==" />
-<meta name="csp-nonce" content="fxKlPtPEsfum1qOBvCddrg==" />
+<meta name="csrf-token" content="P3h02x4nYirmyQKWcLFwrvrPUb59zlCH9hQYnYmTScIqnb0T/tzfnPpZ0n4KfBA2BVK5sJ8sIq53sJCgBum6lg==" />
+<meta name="csp-nonce" content="dW7/9QOBHZV2Uecj8q9A0A==" />
 <meta name="action-cable-url" content="/-/cable" />
 <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
 <meta content="#474D57" name="theme-color">
@@ -73,9 +73,9 @@ window.uploads_path = "/kyphoto/clash/uploads";
 
 </head>
 
-<body class="ui-indigo tab-width-8  gl-browser-firefox gl-platform-windows" data-find-file="/kyphoto/clash/-/find_file/master" data-namespace-id="2992999" data-page="projects:blob:show" data-page-type-id="master/AI.list" data-project="clash" data-project-id="632178">
+<body class="ui-indigo tab-width-8  gl-browser-firefox gl-platform-windows" data-find-file="/kyphoto/clash/-/find_file/master" data-namespace-id="2992999" data-page="projects:blob:show" data-page-type-id="master/UnBan.list" data-project="clash" data-project-id="632178">
 
-<script nonce="fxKlPtPEsfum1qOBvCddrg==">
+<script nonce="dW7/9QOBHZV2Uecj8q9A0A==">
 //<![CDATA[
 gl = window.gl || {};
 gl.client = {"isFirefox":true,"isWindows":true};
@@ -266,8 +266,8 @@ kyphoto
 </div>
 </header>
 <div class="js-set-status-modal-wrapper" data-current-emoji="" data-current-message="" data-default-emoji="speech_balloon"></div>
-<script src="/assets/drag_sort/sortable.min-b2de54b4d3ef84fe9656f624cc02d4b9b1d9754fb038148ff1fe06422b5f0f46.js" defer="defer" nonce="fxKlPtPEsfum1qOBvCddrg=="></script>
-<script src="/assets/side_toolbar-d302f567974818ad159162cb05e273dbf0ac2a382fa364a403de4b801761fed3.js" defer="defer" nonce="fxKlPtPEsfum1qOBvCddrg=="></script>
+<script src="/assets/drag_sort/sortable.min-b2de54b4d3ef84fe9656f624cc02d4b9b1d9754fb038148ff1fe06422b5f0f46.js" defer="defer" nonce="dW7/9QOBHZV2Uecj8q9A0A=="></script>
+<script src="/assets/side_toolbar-d302f567974818ad159162cb05e273dbf0ac2a382fa364a403de4b801761fed3.js" defer="defer" nonce="dW7/9QOBHZV2Uecj8q9A0A=="></script>
 
 <div class="layout-page page-with-contextual-sidebar">
 <nav class="breadcrumbs container-fluid container-limited mobile_breadcrumbs" role="navigation">
@@ -280,13 +280,13 @@ kyphoto
 
 <li>
 <h2 class="breadcrumbs-sub-title">
-<a href="/kyphoto/clash/-/blob/master/AI.list">Repository</a>
+<a href="/kyphoto/clash/-/blob/master/UnBan.list">Repository</a>
 </h2>
 </li>
 </ul>
 </div>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"kyphoto","item":"https://gitcode.net/kyphoto"},{"@type":"ListItem","position":2,"name":"clash","item":"https://gitcode.net/kyphoto/clash"},{"@type":"ListItem","position":3,"name":"Repository","item":"https://gitcode.net/kyphoto/clash/-/blob/master/AI.list"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"kyphoto","item":"https://gitcode.net/kyphoto"},{"@type":"ListItem","position":2,"name":"clash","item":"https://gitcode.net/kyphoto/clash"},{"@type":"ListItem","position":3,"name":"Repository","item":"https://gitcode.net/kyphoto/clash/-/blob/master/UnBan.list"}]}
 
 </script>
 
@@ -824,7 +824,7 @@ DevOps
 <div class="flash-container flash-container-page sticky" data-qa-selector="flash_container">
 </div>
 
-<div class="js-signature-container" data-signatures-path="/kyphoto/clash/-/commits/785baf387ee4f2946263f23889980b9a1a9ab684/signatures?limit=1"></div>
+<div class="js-signature-container" data-signatures-path="/kyphoto/clash/-/commits/c2bfb726d5e4d161feef3be9dfecb13b31f1d888/signatures?limit=1"></div>
 
 <div class="tree-holder" id="tree-holder">
 <div class="nav-block">
@@ -836,7 +836,7 @@ DevOps
   }
 </style>
 <form class="project-refs-form" action="/kyphoto/clash/-/refs/switch" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="destination" id="destination" value="blob" />
-<input type="hidden" name="path" id="path" value="AI.list" />
+<input type="hidden" name="path" id="path" value="UnBan.list" />
 <div class="dropdown branches-dropdown">
 <button class="dropdown-menu-toggle js-project-refs-dropdown qa-branches-select" type="button" data-report-view="{&quot;spm&quot;:&quot;1033.2243.3001.5864&quot;}" data-report-click="{&quot;spm&quot;:&quot;1033.2243.3001.5864&quot;}" data-toggle="dropdown" data-selected="master" data-ref="master" data-refs-url="/kyphoto/clash/refs?sort=updated_desc" data-field-name="ref" data-submit-form-on-click="true" data-visit="true"><span class="dropdown-toggle-text ">master</span><svg class="s16 dropdown-menu-toggle-icon gl-top-3" data-testid="chevron-down-icon"><use xlink:href="/assets/icons-15cbe21ccc2237b075efb0b0d170fc8d6716882dbe4fefad34c18b914dbcf811.svg#chevron-down"></use></svg></button>
 <div class="dropdown-menu dropdown-menu-paging dropdown-menu-selectable git-revision-dropdown qa-branches-dropdown">
@@ -855,30 +855,30 @@ DevOps
 <a href="/kyphoto/clash/-/tree/master">clash
 </a></li>
 <li class="breadcrumb-item">
-<a href="/kyphoto/clash/-/blob/master/AI.list"><strong>AI.list</strong>
+<a href="/kyphoto/clash/-/blob/master/UnBan.list"><strong>UnBan.list</strong>
 </a></li>
 </ul>
 </div>
 <div class="tree-controls gl-children-ml-sm-3"><a class="gl-button btn shortcuts-find-file" rel="nofollow" href="/kyphoto/clash/-/find_file/master">查找文件
-</a><a class="btn js-blob-blame-link" href="/kyphoto/clash/-/blame/master/AI.list">Blame</a><a class="btn" href="/kyphoto/clash/-/commits/master/AI.list">历史</a><a class="btn js-data-file-blob-permalink-url" href="/kyphoto/clash/-/blob/ee493a52d7fdb57ff4dc29df2c4a14c4fc47dcfd/AI.list">永久链接</a><a class="gl-button btn js-data-file-blob-permalink-url" href="/kyphoto/clash/-/blob/ee493a52d7fdb57ff4dc29df2c4a14c4fc47dcfd/AI.list">Permalink</a></div>
+</a><a class="btn js-blob-blame-link" href="/kyphoto/clash/-/blame/master/UnBan.list">Blame</a><a class="btn" href="/kyphoto/clash/-/commits/master/UnBan.list">历史</a><a class="btn js-data-file-blob-permalink-url" href="/kyphoto/clash/-/blob/ee493a52d7fdb57ff4dc29df2c4a14c4fc47dcfd/UnBan.list">永久链接</a><a class="gl-button btn js-data-file-blob-permalink-url" href="/kyphoto/clash/-/blob/ee493a52d7fdb57ff4dc29df2c4a14c4fc47dcfd/UnBan.list">Permalink</a></div>
 </div>
 
 <div class="info-well d-none d-sm-block">
 <div class="well-segment">
 <ul class="blob-commit-info">
-<li class="commit flex-row js-toggle-container" id="commit-785baf38">
+<li class="commit flex-row js-toggle-container" id="commit-c2bfb726">
 <div class="avatar-cell d-none d-sm-block">
 <a href="/kyphoto"><img alt="kyphoto&#39;s avatar" src="https://profile-avatar.csdnimg.cn/default.jpg!1" class="avatar s40 d-none d-sm-inline-block" title="kyphoto" /></a>
 </div>
 <div class="commit-detail flex-list">
 <div class="commit-content" data-qa-selector="commit_content">
-<a class="commit-row-message item-title js-onboarding-commit-item " href="/kyphoto/clash/-/commit/785baf387ee4f2946263f23889980b9a1a9ab684">更新AI.list, Direct.list, ProxyLite.list, KYproxy.ini</a>
+<a class="commit-row-message item-title js-onboarding-commit-item " href="/kyphoto/clash/-/commit/c2bfb726d5e4d161feef3be9dfecb13b31f1d888">Add new file</a>
 <span class="commit-row-message d-inline d-sm-none">
 &middot;
-785baf38
+c2bfb726
 </span>
 <div class="committer">
-由 <a class="commit-author-link js-user-link" data-user-id="2953398" href="/kyphoto">kyphoto</a> 提交于 <time class="js-timeago" title="8月 10, 2024 7:08上午" datetime="2024-08-09T23:08:34Z" data-toggle="tooltip" data-placement="bottom" data-container="body">8月 10, 2024</time>
+由 <a class="commit-author-link js-user-link" data-user-id="2953398" href="/kyphoto">kyphoto</a> 提交于 <time class="js-timeago" title="8月 11, 2024 4:04上午" datetime="2024-08-10T20:04:19Z" data-toggle="tooltip" data-placement="bottom" data-container="body">8月 11, 2024</time>
 </div>
 
 </div>
@@ -886,9 +886,9 @@ DevOps
 
 <div class="commit-sha-group btn-group d-none d-sm-flex">
 <div class="label label-monospace monospace">
-785baf38
+c2bfb726
 </div>
-<button class="btn gl-button btn btn-default" data-toggle="tooltip" data-placement="bottom" data-container="body" data-title="复制提交SHA" data-class="gl-button btn btn-default" data-clipboard-text="785baf387ee4f2946263f23889980b9a1a9ab684" type="button" title="复制提交SHA" aria-label="复制提交SHA"><svg class="s16" data-testid="copy-to-clipboard-icon"><use xlink:href="/assets/icons-15cbe21ccc2237b075efb0b0d170fc8d6716882dbe4fefad34c18b914dbcf811.svg#copy-to-clipboard"></use></svg></button>
+<button class="btn gl-button btn btn-default" data-toggle="tooltip" data-placement="bottom" data-container="body" data-title="复制提交SHA" data-class="gl-button btn btn-default" data-clipboard-text="c2bfb726d5e4d161feef3be9dfecb13b31f1d888" type="button" title="复制提交SHA" aria-label="复制提交SHA"><svg class="s16" data-testid="copy-to-clipboard-icon"><use xlink:href="/assets/icons-15cbe21ccc2237b075efb0b0d170fc8d6716882dbe4fefad34c18b914dbcf811.svg#copy-to-clipboard"></use></svg></button>
 
 </div>
 </div>
@@ -906,22 +906,22 @@ DevOps
 <div class="file-header-content">
 <svg class="s16" data-testid="doc-text-icon"><use xlink:href="/assets/icons-15cbe21ccc2237b075efb0b0d170fc8d6716882dbe4fefad34c18b914dbcf811.svg#doc-text"></use></svg>
 <strong class="file-title-name gl-word-break-all" data-qa-selector="file_name_content">
-AI.list
+UnBan.list
 </strong>
-<button class="btn btn-clipboard btn-transparent" data-toggle="tooltip" data-placement="bottom" data-container="body" data-class="btn-clipboard btn-transparent" data-title="复制文件路径" data-clipboard-text="{&quot;text&quot;:&quot;AI.list&quot;,&quot;gfm&quot;:&quot;`AI.list`&quot;}" type="button" title="复制文件路径" aria-label="复制文件路径"><svg class="s16" data-testid="copy-to-clipboard-icon"><use xlink:href="/assets/icons-15cbe21ccc2237b075efb0b0d170fc8d6716882dbe4fefad34c18b914dbcf811.svg#copy-to-clipboard"></use></svg></button>
+<button class="btn btn-clipboard btn-transparent" data-toggle="tooltip" data-placement="bottom" data-container="body" data-class="btn-clipboard btn-transparent" data-title="复制文件路径" data-clipboard-text="{&quot;text&quot;:&quot;UnBan.list&quot;,&quot;gfm&quot;:&quot;`UnBan.list`&quot;}" type="button" title="复制文件路径" aria-label="复制文件路径"><svg class="s16" data-testid="copy-to-clipboard-icon"><use xlink:href="/assets/icons-15cbe21ccc2237b075efb0b0d170fc8d6716882dbe4fefad34c18b914dbcf811.svg#copy-to-clipboard"></use></svg></button>
 <small class="mr-1">
-748 字节
+699 字节
 </small>
 </div>
 
-<div class="file-actions gl-display-flex gl-flex-fill-1 gl-align-self-start gl-md-justify-content-end"><a class="btn btn-primary js-edit-blob js-critical-verification ml-2  btn-sm" data-url="/kyphoto/clash/-/edit/master/AI.list" href="javascript:;">编辑</a><a class="btn btn-primary ide-edit-button ml-2 gl-mr-3 btn-inverted btn-sm" data-url="{:track_event=&gt;&quot;click_edit_ide&quot;, :track_label=&gt;&quot;Web IDE&quot;, :track_property=&gt;&quot;secondary&quot;}" href="/-/ide/project/kyphoto/clash/edit/master/-/AI.list">Web IDE</a><div class="btn-group ml-2" role="group">
+<div class="file-actions gl-display-flex gl-flex-fill-1 gl-align-self-start gl-md-justify-content-end"><a class="btn btn-primary js-edit-blob js-critical-verification ml-2  btn-sm" data-url="/kyphoto/clash/-/edit/master/UnBan.list" href="javascript:;">编辑</a><a class="btn btn-primary ide-edit-button ml-2 gl-mr-3 btn-inverted btn-sm" data-url="{:track_event=&gt;&quot;click_edit_ide&quot;, :track_label=&gt;&quot;Web IDE&quot;, :track_property=&gt;&quot;secondary&quot;}" href="/-/ide/project/kyphoto/clash/edit/master/-/UnBan.list">Web IDE</a><div class="btn-group ml-2" role="group">
 
 <button name="button" type="submit" class="btn btn-default" data-target="#modal-upload-blob" data-toggle="modal">替换</button>
 <button name="button" type="submit" class="btn btn-default" data-target="#modal-remove-blob" data-toggle="modal">删除</button>
 </div><div class="btn-group ml-2" role="group">
-<button class="btn btn btn-sm js-copy-blob-source-btn" data-toggle="tooltip" data-placement="bottom" data-container="body" data-class="btn btn-sm js-copy-blob-source-btn" data-title="复制文件内容" data-clipboard-target=".blob-content[data-blob-id=&#39;049cd355ea6141fec5a32868921513c1819d52c2&#39;] &gt; pre" type="button" title="复制文件内容" aria-label="复制文件内容"><svg class="s16" data-testid="copy-to-clipboard-icon"><use xlink:href="/assets/icons-15cbe21ccc2237b075efb0b0d170fc8d6716882dbe4fefad34c18b914dbcf811.svg#copy-to-clipboard"></use></svg></button>
-<a class="btn btn-sm has-tooltip" target="_blank" rel="noopener noreferrer" aria-label="打开原始文件" title="打开原始文件" data-container="body" href="/kyphoto/clash/-/raw/master/AI.list"><svg class="s16" data-testid="doc-code-icon"><use xlink:href="/assets/icons-15cbe21ccc2237b075efb0b0d170fc8d6716882dbe4fefad34c18b914dbcf811.svg#doc-code"></use></svg></a>
-<a download="AI.list" class="btn btn-sm has-tooltip" target="_blank" rel="noopener noreferrer" aria-label="下载" title="下载" data-container="body" href="/kyphoto/clash/-/raw/master/AI.list?inline=false"><svg class="s16" data-testid="download-icon"><use xlink:href="/assets/icons-15cbe21ccc2237b075efb0b0d170fc8d6716882dbe4fefad34c18b914dbcf811.svg#download"></use></svg></a>
+<button class="btn btn btn-sm js-copy-blob-source-btn" data-toggle="tooltip" data-placement="bottom" data-container="body" data-class="btn btn-sm js-copy-blob-source-btn" data-title="复制文件内容" data-clipboard-target=".blob-content[data-blob-id=&#39;9112ad37a2e49d642e9e0a813e09735f206df218&#39;] &gt; pre" type="button" title="复制文件内容" aria-label="复制文件内容"><svg class="s16" data-testid="copy-to-clipboard-icon"><use xlink:href="/assets/icons-15cbe21ccc2237b075efb0b0d170fc8d6716882dbe4fefad34c18b914dbcf811.svg#copy-to-clipboard"></use></svg></button>
+<a class="btn btn-sm has-tooltip" target="_blank" rel="noopener noreferrer" aria-label="打开原始文件" title="打开原始文件" data-container="body" href="/kyphoto/clash/-/raw/master/UnBan.list"><svg class="s16" data-testid="doc-code-icon"><use xlink:href="/assets/icons-15cbe21ccc2237b075efb0b0d170fc8d6716882dbe4fefad34c18b914dbcf811.svg#doc-code"></use></svg></a>
+<a download="UnBan.list" class="btn btn-sm has-tooltip" target="_blank" rel="noopener noreferrer" aria-label="下载" title="下载" data-container="body" href="/kyphoto/clash/-/raw/master/UnBan.list?inline=false"><svg class="s16" data-testid="download-icon"><use xlink:href="/assets/icons-15cbe21ccc2237b075efb0b0d170fc8d6716882dbe4fefad34c18b914dbcf811.svg#download"></use></svg></a>
 
 </div></div>
 </div>
@@ -934,7 +934,7 @@ edit
 files in this project directly. Please fork this project,
 make your changes there, and submit a merge request.
 </span>
-<a class="js-fork-suggestion-button gl-button btn btn-grouped btn-inverted btn-success" rel="nofollow" data-method="post" href="/kyphoto/clash/-/blob/master/AI.list">Fork</a>
+<a class="js-fork-suggestion-button gl-button btn btn-grouped btn-inverted btn-success" rel="nofollow" data-method="post" href="/kyphoto/clash/-/blob/master/UnBan.list">Fork</a>
 <button class="js-cancel-fork-suggestion-button gl-button btn btn-grouped" type="button">
 Cancel
 </button>
@@ -942,7 +942,7 @@ Cancel
 
 
 
-<div class="blob-viewer" data-path="AI.list" data-type="simple" data-url="/kyphoto/clash/-/blob/master/AI.list?format=json&amp;viewer=simple">
+<div class="blob-viewer" data-path="UnBan.list" data-type="simple" data-url="/kyphoto/clash/-/blob/master/UnBan.list?format=json&amp;viewer=simple">
 <div class="text-center gl-mt-4 gl-mb-3">
 <span class="gl-spinner gl-spinner-orange gl-spinner-md qa-spinner" aria-label="加载中"></span>
 </div>
@@ -959,20 +959,20 @@ Cancel
 <div class="modal-header">
 <h3 class="page-title">
 删除
-AI.list
+UnBan.list
 </h3>
 <button aria-label="关闭" class="close" data-dismiss="modal" type="button">
 <span aria-hidden>&times;</span>
 </button>
 </div>
 <div class="modal-body">
-<form class="js-delete-blob-form js-quick-submit js-requires-input" action="/kyphoto/clash/-/blob/master/AI.list" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="lE54YzRY1tM3XDiGKUXM36NwkkyCRBnCppbx8tziyGCBq7Gr1KNrZSvM6G5TiKxHXO16QmCma+snMnnPU5g7NA==" /><div class="form-group row commit_message-group">
-<label class="col-form-label col-sm-2" for="commit_message-87a164ecc904377ee2a025e76ae29f6c">提交信息
+<form class="js-delete-blob-form js-quick-submit js-requires-input" action="/kyphoto/clash/-/blob/master/UnBan.list" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="MANqiGkbXSxgOU95XzU/Kf+Vl9Za2D9fLBGkWlywJ38l5qNAieDgmnypn5El+F+xAAh/2Lg6TXattSxn08rUKw==" /><div class="form-group row commit_message-group">
+<label class="col-form-label col-sm-2" for="commit_message-00c75364fc33b0950e581048f9df874a">提交信息
 </label><div class="col-sm-10">
 <div class="commit-message-container">
 <div class="max-width-marker"></div>
-<textarea name="commit_message" id="commit_message-87a164ecc904377ee2a025e76ae29f6c" class="form-control js-commit-message" placeholder="删除 AI.list" required="required" rows="3">
-删除 AI.list</textarea>
+<textarea name="commit_message" id="commit_message-00c75364fc33b0950e581048f9df874a" class="form-control js-commit-message" placeholder="删除 UnBan.list" required="required" rows="3">
+删除 UnBan.list</textarea>
 </div>
 </div>
 </div>
@@ -983,8 +983,8 @@ AI.list
 <input type="text" name="branch_name" id="branch_name" value="master" required="required" class="form-control js-branch-name ref-name" />
 <div class="js-create-merge-request-container">
 <div class="form-check gl-mt-3">
-<input type="checkbox" name="create_merge_request" id="create_merge_request-df96894f310b57e85a50721b6c15c6ca" value="1" class="js-create-merge-request form-check-input" checked="checked" />
-<label class="form-check-label" for="create_merge_request-df96894f310b57e85a50721b6c15c6ca">通过合并请求更改
+<input type="checkbox" name="create_merge_request" id="create_merge_request-bc6c755f54c5e7418b4f90255b6d476e" value="1" class="js-create-merge-request form-check-input" checked="checked" />
+<label class="form-check-label" for="create_merge_request-bc6c755f54c5e7418b4f90255b6d476e">通过合并请求更改
 </label></div>
 
 </div>
@@ -1007,13 +1007,13 @@ AI.list
 <div class="modal-dialog modal-lg">
 <div class="modal-content">
 <div class="modal-header">
-<h3 class="page-title">Replace AI.list</h3>
+<h3 class="page-title">Replace UnBan.list</h3>
 <button aria-label="关闭" class="close" data-dismiss="modal" type="button">
 <span aria-hidden>&times;</span>
 </button>
 </div>
 <div class="modal-body">
-<form class="js-quick-submit js-upload-blob-form" data-method="put" action="/kyphoto/clash/-/update/master/AI.list" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="Er3Nj/P95keUP6UbztOj2qMA05+/WvO/08on8T8qa/4HWARHEwZb8YivdfO0HsNCXJ07kV24gZZSbq/MsFCYqg==" /><div class="dropzone">
+<form class="js-quick-submit js-upload-blob-form" data-method="put" action="/kyphoto/clash/-/update/master/UnBan.list" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="nRnBl49XIPVzqx0wxFJELLbvRFMurJa+tYSbdOtOxeiI/Ahfb6ydQ287zdi+nyS0SXKsXcxO5Jc0IBNJZDQ2vA==" /><div class="dropzone">
 <div class="dropzone-previews blob-upload-dropzone-previews">
 <p class="dz-message light">
 拖放文件到此处或<a class="markdown-selector" href="#">点击上传</a>
@@ -1023,12 +1023,12 @@ AI.list
 <br>
 <div class="dropzone-alerts gl-alert gl-alert-danger gl-mb-5 data" style="display:none"></div>
 <div class="form-group row commit_message-group">
-<label class="col-form-label col-sm-2" for="commit_message-4727ba054dd3c5e767bd31795181a852">提交信息
+<label class="col-form-label col-sm-2" for="commit_message-fc0cd60da38750f02de38930cd70e39b">提交信息
 </label><div class="col-sm-10">
 <div class="commit-message-container">
 <div class="max-width-marker"></div>
-<textarea name="commit_message" id="commit_message-4727ba054dd3c5e767bd31795181a852" class="form-control js-commit-message" placeholder="Replace AI.list" required="required" rows="3">
-Replace AI.list</textarea>
+<textarea name="commit_message" id="commit_message-fc0cd60da38750f02de38930cd70e39b" class="form-control js-commit-message" placeholder="Replace UnBan.list" required="required" rows="3">
+Replace UnBan.list</textarea>
 </div>
 </div>
 </div>
@@ -1039,8 +1039,8 @@ Replace AI.list</textarea>
 <input type="text" name="branch_name" id="branch_name" value="master" required="required" class="form-control js-branch-name ref-name" />
 <div class="js-create-merge-request-container">
 <div class="form-check gl-mt-3">
-<input type="checkbox" name="create_merge_request" id="create_merge_request-67f801109065521989e7f6575e5143b8" value="1" class="js-create-merge-request form-check-input" checked="checked" />
-<label class="form-check-label" for="create_merge_request-67f801109065521989e7f6575e5143b8">通过合并请求更改
+<input type="checkbox" name="create_merge_request" id="create_merge_request-5c97f2c0edac894b2c9c20764ee472ec" value="1" class="js-create-merge-request form-check-input" checked="checked" />
+<label class="form-check-label" for="create_merge_request-5c97f2c0edac894b2c9c20764ee472ec">通过合并请求更改
 </label></div>
 
 </div>
@@ -1111,7 +1111,7 @@ Replace file
 
 
 
-<script nonce="fxKlPtPEsfum1qOBvCddrg==">
+<script nonce="dW7/9QOBHZV2Uecj8q9A0A==">
 //<![CDATA[
 if ('loading' in HTMLImageElement.prototype) {
   document.querySelectorAll('img.lazy').forEach(img => {
@@ -1144,7 +1144,7 @@ if ('loading' in HTMLImageElement.prototype) {
 </div>
 <div class="modal-body">
 <div class="container-fluid">
-<form class="custom-notifications-form" id="edit_notification_setting_4734550" action="/-/notification_settings/4734550" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="patch" /><input type="hidden" name="authenticity_token" value="4E1qRz8NqMC6osbq0x5FIKfT9zG4fGvricupA1j6uYz1qKOP3/YVdqYyFgKp0yW4WE4fP1qeGcIIbyE+14BK2A==" /><input type="hidden" name="project_id" id="project_id" value="632178" />
+<form class="custom-notifications-form" id="edit_notification_setting_4734550" action="/-/notification_settings/4734550" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="patch" /><input type="hidden" name="authenticity_token" value="o792MRUdkX3kLZZCD6qcMycODottAkxSg9RLoEBNfZS2Wr/59eYsy/i9Rqp1Z/yr2JPmhY/gPnsCcMOdzzeOwA==" /><input type="hidden" name="project_id" id="project_id" value="632178" />
 <input type="hidden" name="hide_label" id="hide_label" value="true" />
 <div class="row">
 <div class="col-lg-4">
