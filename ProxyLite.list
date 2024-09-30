@@ -3,6 +3,8 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,myfxbook.com
+DOMAIN-SUFFIX,metatrader5.com
+DOMAIN-SUFFIX,mql5.com
 DOMAIN-SUFFIX,okx.com
 
 # 域名关键字匹配
