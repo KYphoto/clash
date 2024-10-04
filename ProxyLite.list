@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,mql5.com
 DOMAIN-SUFFIX,istoreos.com
 DOMAIN-SUFFIX,okx.com
 
+# 交易经纪商
+DOMAIN-SUFFIX,tmgm.com
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
