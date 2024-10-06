@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,myfxbook.com
 DOMAIN-SUFFIX,metatrader5.com
+DOMAIN-SUFFIX,download.metatrader.com
 DOMAIN-SUFFIX,mql5.com
 DOMAIN-SUFFIX,istoreos.com
 DOMAIN-SUFFIX,okx.com
@@ -13,6 +14,7 @@ DOMAIN-SUFFIX,tmgm.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,javdb
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
